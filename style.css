@@ -1,0 +1,53 @@
+/*padding:0
+margin:0
+*/
+
+body{
+    background-color: blue;
+}
+
+body .box{
+    border:#000;
+    text-align: center;
+    justify-content: center;
+}
+
+body .box h3{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: medium;
+}
+
+form{
+    width:auto;
+    text-align: center;
+    font: 1em sans-serif;
+    text-decoration: none;
+    color: antiquewhite;
+}
+
+.container-signin p a{
+    color: black;
+    
+}
+
+/*media queries*/
+
+/* box*/
+
+@media (min-width: 360px){
+    /*Small devices until the next breakpoint*/
+
+@media (min-width: 600px){
+
+    }
+    /*Medium devices*/
+ 
+@media (min-width: 1024px){
+
+    }
+    /*Large devices*/
+
+}
+
+
+
